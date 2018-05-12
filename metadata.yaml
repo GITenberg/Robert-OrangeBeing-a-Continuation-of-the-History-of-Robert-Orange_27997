@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33065
     wikipedia: http://en.wikipedia.org/wiki/Pearl_Mary_Teresa_Craigie
 description: Sequel to The School for Saints.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27997#Robert-OrangeBeing-a-Continuation-of-the-History-of-Robert-Orange
 gutenberg_issued: '2009-02-04'
 gutenberg_type: Text
 identifiers:
